@@ -2,6 +2,8 @@
 
 A code understanding collaborative uni-friend.
 
+*Coucou, c'est moi!*
+
 ### WIP
 
 #### Feature
